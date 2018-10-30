@@ -1,0 +1,25 @@
+{
+  "name": "assignment2",
+  "version": "1.0.0",
+  "description": "HTTP Request with Request",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/tancmc1/wk02d01assignment02.git"
+  },
+  "keywords": [
+    "request"
+  ],
+  "author": "Martin Lorenzo Tanchanco",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tancmc1/wk02d01assignment02/issues"
+  },
+  "homepage": "https://github.com/tancmc1/wk02d01assignment02#readme",
+  "dependencies": {
+    "request": "^2.88.0"
+  }
+}
